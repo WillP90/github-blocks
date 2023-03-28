@@ -1,0 +1,50 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+#brown{
+    background-color: brown;
+}
+
+#coral{
+    background-color: coral;
+}
+
+#indianred{
+    background-color: indianred;
+}
+
+.container{
+    background-color: burlywood;
+    margin: 0 auto;
+    width: 900px;
+    padding: 10px;
+}
+
+.title{
+    margin: 10px;
+    font-size: 55px;
+    font-family:sans-serif;
+    font-weight: 700;
+    text-align: center;
+}
+
+.banner{
+    margin: 15px 5px;
+    padding: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+.card{
+    margin: 10px;
+    height: 250px;
+}
+
+.footer{
+    padding: 10px;
+    font-size: 18px;
+    text-align: center;
+}
